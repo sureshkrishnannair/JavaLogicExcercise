@@ -2,7 +2,7 @@ package Logic;
 
 import org.testng.annotations.Test;
 
-public class ReverseNumber {
+public class ReverseNumberTest {
 	
 	@Test
 	public void reversenumber() {

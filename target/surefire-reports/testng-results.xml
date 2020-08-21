@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2020-08-21T10:05:07Z" finished-at="2020-08-21T10:05:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2020-08-21T10:05:07Z" finished-at="2020-08-21T10:05:07Z">
+      <class name="Logic.ReverseNumberTest">
+        <test-method status="PASS" signature="reversenumber()[pri:0, instance:Logic.ReverseNumberTest@1dc03ce]" name="reversenumber" duration-ms="8" started-at="2020-08-21T10:05:07Z" finished-at="2020-08-21T10:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reversenumber -->
+      </class> <!-- Logic.ReverseNumberTest -->
+      <class name="Logic.PrimeNumberTest">
+        <test-method status="PASS" signature="primeNumberTest()[pri:0, instance:Logic.PrimeNumberTest@b4c3ab]" name="primeNumberTest" duration-ms="0" started-at="2020-08-21T10:05:07Z" finished-at="2020-08-21T10:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primeNumberTest -->
+      </class> <!-- Logic.PrimeNumberTest -->
+      <class name="Logic.SortingTest">
+        <test-method status="PASS" signature="sortList()[pri:0, instance:Logic.SortingTest@f8360d]" name="sortList" duration-ms="1" started-at="2020-08-21T10:05:07Z" finished-at="2020-08-21T10:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortList -->
+      </class> <!-- Logic.SortingTest -->
+      <class name="Logic.DuplicateElementsTest">
+        <test-method status="PASS" signature="fileterDuplicateElements()[pri:0, instance:Logic.DuplicateElementsTest@1c78c0b]" name="fileterDuplicateElements" duration-ms="1" started-at="2020-08-21T10:05:07Z" finished-at="2020-08-21T10:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileterDuplicateElements -->
+      </class> <!-- Logic.DuplicateElementsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

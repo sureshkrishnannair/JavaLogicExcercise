@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import org.testng.annotations.Test;
 
-public class DuplicateElements {
+public class DuplicateElementsTest {
 	
 	
 	
@@ -37,7 +37,7 @@ public class DuplicateElements {
 			System.out.println("Duplicates "+x);
 		}
 		
-		
+		System.out.println("end");
 	}
 
 }

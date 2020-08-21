@@ -1,6 +1,6 @@
 package Logic;
 
-public class StringExample {
+public class StringExampleTest {
 
 	public static void main(String[] args) {
 
