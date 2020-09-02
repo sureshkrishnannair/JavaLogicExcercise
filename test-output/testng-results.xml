@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="41" started-at="2020-08-21T10:24:13Z" finished-at="2020-08-21T10:24:13Z">
+  <suite name="Default suite" duration-ms="51" started-at="2020-09-02T12:54:18Z" finished-at="2020-09-02T12:54:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="41" started-at="2020-08-21T10:24:13Z" finished-at="2020-08-21T10:24:13Z">
-      <class name="Logic.MaxValues">
-        <test-method status="PASS" signature="maxValues()[pri:0, instance:Logic.MaxValues@4dfa3a9d]" name="maxValues" duration-ms="12" started-at="2020-08-21T10:24:13Z" finished-at="2020-08-21T10:24:13Z">
+    <test name="Default test" duration-ms="51" started-at="2020-09-02T12:54:18Z" finished-at="2020-09-02T12:54:18Z">
+      <class name="Logic.Swap2Numbers">
+        <test-method status="PASS" signature="swapnumbers()[pri:0, instance:Logic.Swap2Numbers@4dfa3a9d]" name="swapnumbers" duration-ms="14" started-at="2020-09-02T12:54:18Z" finished-at="2020-09-02T12:54:18Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- maxValues -->
-      </class> <!-- Logic.MaxValues -->
+        </test-method> <!-- swapnumbers -->
+      </class> <!-- Logic.Swap2Numbers -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
